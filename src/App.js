@@ -39,7 +39,6 @@ export const App = () => {
     setCompleteTodos(newCompleteTodos);
   }
 
-
   return(
     <>
       <InputTodo
